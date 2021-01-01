@@ -43,6 +43,6 @@ while x <= 9
 turn(board)
 x += 1
 
-break
+
 end
 end
